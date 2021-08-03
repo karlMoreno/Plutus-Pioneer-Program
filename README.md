@@ -42,15 +42,6 @@ This is week by week of what I learned and the assignments I completed all annot
   - Oracles.
   - Using the PAB.
 
-## Code Examples
-
-- Lecture #1:  [English Auction](code/week01)
-- Lecture #2:  [Simple validation](code/week02)
-- Lecture #3:  [Script Context & Parameterized Contracts](code/week03)
-- Lecture #4:  [Monad, Traces & Contracts](code/week04)
-- Lecture #5:  [Native Tokens](code/week05)
-- Lecture #6:  [Oracles](code/week06)
-
 ## Exercises
 
 - Week #1
