@@ -1,5 +1,5 @@
 # Plutus-Pioneer-Program
-I was part of the second cohort which had  early access to a set of courses that taught the core principles of Haskell and Plutus.
+I was accepted into the second cohort which had  early access to a set of courses that taught the core principles of Haskell and Plutus.
 
 This is week by week of what I learned and the assignments I completed all annotated.
 
